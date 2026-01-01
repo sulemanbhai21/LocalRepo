@@ -20,5 +20,6 @@ document.getElementById("regForm").addEventListener("submit", function (e) {
     }
 
     message.style.color = "green";
-    message.innerText = "Registration Successful!";
+    message.innerText = "Registration completed!";
+
 });
